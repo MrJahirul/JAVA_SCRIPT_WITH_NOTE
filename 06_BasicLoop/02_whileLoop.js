@@ -1,0 +1,16 @@
+/*
+While Loop
+
+syntax:
+    while(condition){
+        code
+        increment/decrement
+    }
+
+*/
+let num=1;
+
+while(num<10){
+    console.log(num);
+    num++;
+}
