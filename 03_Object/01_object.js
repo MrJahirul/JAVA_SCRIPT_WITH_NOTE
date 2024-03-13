@@ -73,7 +73,7 @@ example:
 
 let myObject={
     name:"Panda",
-    "full name":"Panda Khanna",
+    "full name":"Panda Islam",
     age:20
 }
 
