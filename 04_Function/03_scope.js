@@ -43,8 +43,8 @@ Question: What is hoisting?
 => Hoisting is a process in which a function or a variable can be used before declaration.
 
 Example:
-    const wonner="Panda";
-    console.log(wonner);
+    const wonnerr="Panda";
+    console.log(wonnerr);
     
 
 
